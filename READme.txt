@@ -1,0 +1,1 @@
+The HTML and CSS used for this project is pulled directly from the Turners website, I do not own nor did I write this code. Using the source code allowed for the most authentic feel when testing the implementation of the Watson chatbot.
