@@ -1,9 +1,9 @@
 Stakeholder list:
 
-Customers 
-Employees/Management
-Lawyers
-Goverment
-Bank
-Contract workers (Mechanics/Delivery drivers)
-Suppliers 
+MANAGER
+CUSTOMER
+EMPLOYEES (AFTER SALES STAFF)
+OWNERS
+INSURANCE COMPANY (VERO INSURANCE)
+SUPPLIERS
+CONTRACT WORKERS

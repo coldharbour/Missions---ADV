@@ -1,25 +1,20 @@
-To: 
-generalmanager@turners.co.nz
-Subject:
-Concerns about Chatbot
-From:
-___________ ( _______@turners.co.nz)
+Dear General Manager,My name is ________,
 
-04/02/2022
+I was referred to you by my team leader as I would like to discuss some ethical concerns that I have about the decision to replace after-sales staff with chatbot technology.
+As you know, with new technology being rapidly developed, many organisations are looking to these advancements to see if they can become more efficient and effective. There are a few things to consider when reviewing the replacement of our own staff with chatbot technology.
 
-Dear General Manager, 
-My name is ________, I was referred to you by my team leader as I would like to discuss some ethical concerns that I have about the decision to replace after-sales staff with chatbot technology. 
-As you know, with new technology being rapidly developed, many organisations are looking to these advancements to see if they can become more efficient and effective. There are a few things to consider when reviewing the replacement of our own staff with chatbot technology. 
-With customer self-service technology, the amount of human labour required for roles needing interpersonal communication skills is being reduced. As one of Turners’ four key areas is optimisation across people, property, and processes (Turners, 2021),  the implementation of chatbot technology would streamline customer helpline services by greatly reducing the need for a real person. 
-However, the reform of employee structure could trigger concerns about job loss that will disproportionately affect lower socio-economic classes. Hawksworth et al. (2018) claimed that the majority of roles replaced by AI technology tended to be low skill/routine roles that do not require previous experience or tertiary qualifications such as customer service roles. These roles are usually filled by the lower socio-economic demographic. This is due to numerous systemic barriers that limit the opportunities for less wealthy families from higher education, connections in the business world and encourage the cycle of poverty. 
-Gavaghan et al. (2021) suggested that the replacement of real humans by AI is inevitable, and that the only solution is to upskill via internships and tertiary education. These two pathways are rarely available to the impoverished population and leaves them vulnerable to unemployment with little hopes to compete with AI technology. 
-Through a capitalistic lens, the innate purpose of businesses are to generate wealth for the owners. However, Turner’s claims to prioritise the wellbeing of their employees. It is recommended that we implement ongoing training that can provide the skill improvement required for employees to remain unscathed by the implementation of AI technology in customer service roles. 
-Additionally, we need to consider the bias of AI technology that could be detrimental to our customer experience. It is a common conception that technology is neutral, however, Kranzberg (1980) claimed that when an individual uses technology, it becomes a vessel for their beliefs and values. AI bias is the underlying prejudice in the processes used to create AI technology that can result in discrimination and other social consequences. 
-A notable example of this bias is the Amazon AI used to hire employees. The algorithm was biased against women as the data was outdated and mainly consisted of men. The reality is that the implementation of chatbot technology can cause unseen social consequences for our customers. As we prioritise equity for all of our customers, I recommend that we make an informed effort to use  representative data for our AI algorithms that are evaluated by different social groups to confirm the validity. This will ensure we protect our customers from AI bias and reduce the negative consequences of AI technology.  
+As one of Turners’ four key areas is optimisation across people, property, and processes, the implementation of chatbot technology would streamline customer helpline services by greatly reducing the need for a real person.
 
-Sincerely,
+However, the reform of employee structure could trigger concerns about job loss that will disproportionately affect lower socio-economic classes. Most roles replaced by AI technology tended to be low skill/routine roles that do not require previous experience or tertiary qualifications such as customer service roles. These roles are usually filled by the lower socio-economic demographic. This is due to numerous systemic barriers that limit the opportunities for less wealthy families from higher education, connections in the business world and encourage the cycle of poverty.
+    
+Replacement of real humans by AI is inevitable, and that the only solution is to upskill via internships and tertiary education. These two pathways are rarely available to the impoverished population and leaves them vulnerable to unemployment with little hopes to compete with AI technology.
 
-
-_______________
-Technology Consultant, Turners.
+Through a capitalistic lens, the innate purpose of businesses is to generate wealth for the owners. However, Turner’s claims to prioritise the wellbeing of their employees. It is recommended that we implement ongoing training that can provide the skill improvement required for employees to remain unscathed by the implementation of AI technology in customer service roles.
+      
+Ultimately, implementing chatbots will have a long-term value to the company and for the users. Reducing the staff just by using this feature would not be empathetic, instead we could organise the MV insurance team in an efficient way to reduce the workload with the use of chatbots. MV insurance team can be divided into subcategories to handle further issue faster; General, Sales and Technical etc.
+        
+Always happy to hear from you.
+        
+Best Regards,________________
+Technology Consultant, Turners. 
 ________@turners.co.nz
